@@ -16,7 +16,7 @@ I recently decided that it’s never too late to follow your heart and take risk
 * 💡 Constantly learning new ways to merge **logic**, **data**, and **creativity**.
 * 📫 How to reach me: [Email](mailto:alvesadornoalana@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alanaadorno/)
 ---
-###  Linguagens e Tecnologias
+###  Tech Stack
 
 <img 
     align="left" 
