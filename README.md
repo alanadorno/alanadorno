@@ -14,6 +14,7 @@ I recently decided that it’s never too late to follow your heart and take risk
 
 * 📊 Currently, I am a **Scientific Initiation Research Fellow**, where I focus on **Data Analysis**.
 * 💡 Constantly learning new ways to merge **logic**, **data**, and **creativity**.
+* 📑 Academic CV (CNPq): [Lattes](http://lattes.cnpq.br/7230334760364767)
 * 📫 How to reach me: [Email](mailto:alvesadornoalana@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alanaadorno/)
 ---
 ###  Tech Stack
